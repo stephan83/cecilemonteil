@@ -27,29 +27,29 @@ html(lang='en')
           a.navbar-brand(href='/') CÉCILE MONTEIL
         #navbar.collapse.navbar-collapse
           ul.nav.navbar-nav
-            li.active(role='presentation')
+            li(class="#{ current.source == 'index' ? 'active' : '' }", role='presentation')
               a(href='/') HOME
-            li(role='presentation')
+            li(class="#{ current.source == 'press' ? 'active' : '' }", role='presentation')
               a(href='press.html') PRESS
-            li(role='presentation')
+            li(class="#{ current.source == 'talks' ? 'active' : '' }", role='presentation')
               a(href='talks.html') TALKS
-            li(role='presentation')
+            li(class="#{ current.source == 'publications' ? 'active' : '' }", role='presentation')
               a(href='publications.html') PUBLICATIONS
-            li(role='presentation')
+            li(class="#{ current.source == 'experience' ? 'active' : '' }", role='presentation')
               a(href='experience.html') EXPERIENCE
     .container.main-container
       .row
         .col-sm-4.col-md-3.hidden-xs
           ul.nav.nav-pills.nav-stacked.sidebar
-            li.active(role='presentation')
+            li(class="#{ current.source == 'index' ? 'active' : '' }", role='presentation')
               a(href='/') HOME
-            li(role='presentation')
+            li(class="#{ current.source == 'press' ? 'active' : '' }", role='presentation')
               a(href='press.html') PRESS
-            li(role='presentation')
-              a(href='talk.html') TALKS
-            li(role='presentation')
+            li(class="#{ current.source == 'talks' ? 'active' : '' }", role='presentation')
+              a(href='talks.html') TALKS
+            li(class="#{ current.source == 'publications' ? 'active' : '' }", role='presentation')
               a(href='publications.html') PUBLICATIONS
-            li(role='presentation')
+            li(class="#{ current.source == 'experience' ? 'active' : '' }", role='presentation')
               a(href='experience.html') EXPERIENCE
           .row.social
             .col-xs-4
