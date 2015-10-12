@@ -1,36 +1,79 @@
 {
-  "toubib-connectee": {
-    "title": "Cécile, la toubib connectée",
+  "medecine-revolution-2": {
+    "title": "Médecine connectée : jusqu’ou ira la révolution ?",
     "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
-    "source": "Le Courrier de l'Ouest",
-    "date": "22 novembre 2014",
+    "venue": "Congrès de Gynécologie INFOGYN ",
+    "date": "1 au 3 octobre 2015",
+    "link": "http://www.journees-infogyn.com/programme-scientifique/samedi-3-octobre-2"
+  },
+  "object-connectes": {
+    "title": "Applications les plus fréquentes des objets connectés en télémédecine",
+    "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
+    "venue": "Conférence CHAM2015, Atelier Télémédecine du Pr. Pierre Simon, Chamonix",
+    "date": "24 septembre 2015",
+    "link": "http://canalcham.fr/fr/home"
+  },
+  "table-ronde": {
+    "title": "Table ronde : Santé connectée : Quelles appropriation des acteurs ?",
+    "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
+    "venue": "Santé Connectée - Les Echos, La Maison de la Chimie, Paris",
+    "date": "17 septembre 2015",
+    "link": "https://www.lesechos-events.fr/event/sante/esante-telemedecine-numerique-sant1/#fndtn-programme"
+  },
+  "research-kit": {
+    "title": "1ere étude Research Kit en France",
+    "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
+    "venue": "Le Monde",
+    "date": "9 septembre 2015",
+    "link": "https://www.youtube.com/watch?v=KlMlO27rkOY"
+  },
+  "medecine-revolution": {
+    "title": "Médecine, jusqu'où ira la révolution ?",
+    "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
+    "venue": "Université d'été de la MAIF, Iles Canaries",
+    "date": "13 juillet 2015",
+    "link": "https://www.youtube.com/watch?v=V_QrscGCmNw"
+  },
+  "technologies-du-futur": {
+    "title": "Les technologies du futur: NBIC, GAFA",
+    "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
+    "venue": "Connected Health Monaco",
+    "date": "10 juin 2015",
+    "link": "http://www.connectedhealthmonaco.com"
+  },
+  "tendance-ou-revolution": {
+    "title": "La santé connectée: tendance ou réelle révolution ?",
+    "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
+    "venue": "Conférence Santé Connectée, Nancy",
+    "date": "17 mars 2015",
+    "link": "https://www.canal-u.tv/video/canal_u_medecine/conference_sur_la_sante_connectee.17335"
+  },
+  "tedx": {
+    "title": "TEDx",
+    "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
+    "venue": "Le Quotidian du Médecin",
+    "date": "21 janvier 2015",
     "link": "http://google.com"
   },
-  "revolution-smartphone": {
-    "title": "Dr Cécile Monteil: la révolution par le smartphone",
+  "quelles-attentes": {
+    "title": "La santé connectée: quelles attentes ?",
     "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
-    "source": "Le Quotidian du Médecin",
-    "date": "18 mai 2015",
+    "venue": "Osons la France, Grand Palais (Paris)",
+    "date": "6 décembre 2014",
+    "link": "https://www.youtube.com/watch?v=MqJBurEE3IE"
+  },
+  "e-patient": {
+    "title": "L'e-patient, un patient connecté",
+    "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
+    "venue": "Numa, Paris",
+    "date": "26 novembre 2014",
+    "link": "http://events.numa.paris/Evenements/Health-2.0-Paris"
+  },
+  "journee-femme-digitale": {
+    "title": "Journee de la femme digitale",
+    "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
+    "venue": "Palais Brongniart (Paris)",
+    "date": "13 mars 2014",
     "link": "http://google.com"
-  },
-  "sandbox": {
-    "title": "Sandbox, réseau de jeunes leaders impliqués",
-    "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
-    "source": "L'Opinion",
-    "date": "21 novembre 2013",
-    "link": "http://google.com"
-  },
-  "elites-3-0": {
-    "title": "Elites 3.0",
-    "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
-    "source": "Le Monde",
-    "link": "http://www.lemonde.fr/technologies/visuel/2014/03/28/sandbox-le-reseau-des-elites-connectees-qui-veulent-changer-le-monde_4385947_651865.html"
-  },
-  "wondher": {
-    "title": "Interview for WondHer",
-    "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
-    "source": "WondHer",
-    "data": "August 31st, 2015",
-    "link": "http://www.wondher.co/testimonies/cecile-m"
   }
 }
