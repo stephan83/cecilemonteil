@@ -1,0 +1,140 @@
+@import "variables";
+@import "../bootstrap/stylesheets/bootstrap";
+
+body {
+  padding-top: $navbar-height;
+  padding-bottom: $grid-gutter-width * 2;
+}
+
+.navbar-inverse {
+  background: $brand-primary;
+
+  .container {
+    @media (min-width: $screen-sm-min) { 
+      background-image: url('/images/stethoscope.png');
+      background-repeat: no-repeat;
+      background-position: right 23px;
+      background-size: 54px auto;
+    }
+  }
+}
+
+.navbar-brand {
+  font-family: "museo-sans-rounded", Helvetica, Arial, sans-serif;
+  font-size: 26px;
+  font-weight: 100;
+
+  @media (min-width: $screen-sm-min) {
+    font-size: 60px;
+    text-align: left;
+  }
+}
+
+.navbar-collapse {
+  position: static;
+
+  @media (min-width: $screen-sm-min) {
+    position: absolute;
+    top: -1000px;
+  }
+}
+
+.nav > li > a:hover, .nav > li > a:focus {
+  background: #F7F3E4;
+}
+
+.main-container {
+  padding-top: $grid-gutter-width * 2;
+}
+
+.sidebar, .social {
+  @media (min-width: $screen-sm-min) {
+    position: fixed;
+    width: 219px;
+  }
+  @media (min-width: $screen-md-min) {
+    width: 212px;
+  }
+  @media (min-width: $screen-lg-min) {
+    width: 262px;
+  }
+}
+
+.sidebar {
+  margin-bottom: $grid-gutter-width;
+  @media (min-width: $screen-sm-min) {
+    top: 150px;
+  }
+}
+
+.social {
+  margin-bottom: $grid-gutter-width * 2;
+  @media (min-width: $screen-sm-min) {
+    bottom: $grid-gutter-width * 2;
+    margin-bottom: 0;
+  }
+}
+
+.social-xs {
+  padding-top: $grid-gutter-width * 2;
+  border-top: solid 1px #F5F3EC;
+  text-align: center;
+}
+
+h1, h2 {
+  margin-top: 0;
+  font-weight: 300;
+}
+
+h1, h2, h3 {
+  color: #D8911F;
+  font-weight: 100;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 36px;
+}
+
+.lead {
+  padding-top: $grid-gutter-width / 2;
+  margin-top: $grid-gutter-width / 2;
+  padding-bottom: $grid-gutter-width / 2;
+  margin-bottom: $grid-gutter-width / 2;
+  color: #435F7D;
+  font-weight: 100;
+
+  @media (min-width: $screen-sm-min) {
+    border-top: solid 1px #F5F3EC;
+    border-bottom: solid 1px #F5F3EC;
+  }
+}
+
+strong {
+  font-weight: 700;
+}
+
+.main-content {
+  p a {
+    text-decoration: underline;
+  }
+}
+
+.bio {
+  padding-bottom: $grid-gutter-width * 2;
+
+  @media (min-width: $screen-sm-min) {
+    padding-bottom: 0;
+  }
+}
+
+.item {
+  padding-bottom: $grid-gutter-width * 2;
+  margin-bottom: $grid-gutter-width * 2;
+  border-bottom: solid 1px #F5F3EC;
+
+  &:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+  }
+}
