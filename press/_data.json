@@ -1,34 +1,34 @@
 {
-  "toubib-connectee": {
-    "title": "Cécile, la toubib connectée",
-    "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
-    "source": "Le Courrier de l'Ouest",
-    "date": "22 novembre 2014",
-    "link": "http://google.com"
-  },
   "revolution-smartphone": {
     "title": "Dr Cécile Monteil: la révolution par le smartphone",
-    "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
+    "summary": "Rien ne semble fatiguer cette acharnée du travail qui cherche à prolonger la relation médecin-malade au travers des nouvelles technologies.",
     "source": "Le Quotidian du Médecin",
     "date": "18 mai 2015",
-    "link": "http://google.com"
+    "link": "files/revolution-smartphone.pdf"
+  },
+  "toubib-connectee": {
+    "title": "Cécile, la toubib connectée",
+    "summary": "Avec sa start-up, Cécile Monteil permet au patient d’être relié à son médecin, pour une meilleure prise en charge.",
+    "source": "Le Courrier de l'Ouest",
+    "date": "22 novembre 2014",
+    "link": "files/toubib-connectee.pdf"
   },
   "sandbox": {
     "title": "Sandbox, réseau de jeunes leaders impliqués",
-    "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
+    "summary": "Cette initiative née en Suisse il y a cinq ans pourrait se transformer en think tank international. Leur objectif: changer le monde.",
     "source": "L'Opinion",
     "date": "21 novembre 2013",
-    "link": "http://google.com"
+    "link": "files/sandbox.jpg"
   },
   "elites-3-0": {
     "title": "Elites 3.0",
-    "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
+    "summary": "Ils sont atypiques et ultracréatifs. Les onze cents membres du réseau Sandbox s'entraident et veulent changer le monde.",
     "source": "Le Monde",
     "link": "http://www.lemonde.fr/technologies/visuel/2014/03/28/sandbox-le-reseau-des-elites-connectees-qui-veulent-changer-le-monde_4385947_651865.html"
   },
   "wondher": {
     "title": "Interview for WondHer",
-    "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
+    "summary": "Work wise, it's developing my NGO (Eppocrate) to make it become a high quality and trusted portal for healthcare professionals and the e-health ecosystem. There is a high demand for it and it's a big challenge that I'm happy to take on!",
     "source": "WondHer",
     "data": "August 31st, 2015",
     "link": "http://www.wondher.co/testimonies/cecile-m"
