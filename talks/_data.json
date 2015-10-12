@@ -23,7 +23,7 @@
   "research-kit": {
     "title": "1ere étude Research Kit en France",
     "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
-    "venue": "Le Monde",
+    "venue": "Ad Scientiam",
     "date": "9 septembre 2015",
     "link": "https://www.youtube.com/watch?v=KlMlO27rkOY"
   },
@@ -49,11 +49,11 @@
     "link": "https://www.canal-u.tv/video/canal_u_medecine/conference_sur_la_sante_connectee.17335"
   },
   "tedx": {
-    "title": "TEDx",
+    "title": "Santé connectée : quelle révolution pour la recherche médicale ?",
     "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
-    "venue": "Le Quotidian du Médecin",
+    "venue": "TEDx, UTCompiègne",
     "date": "21 janvier 2015",
-    "link": "http://google.com"
+    "link": "https://www.youtube.com/watch?v=-ZBxP9JA3Ek"
   },
   "quelles-attentes": {
     "title": "La santé connectée: quelles attentes ?",
@@ -74,6 +74,6 @@
     "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
     "venue": "Palais Brongniart (Paris)",
     "date": "13 mars 2014",
-    "link": "http://google.com"
+    "link": "http://lajourneedelafemmedigitale.evolero.com/journeedelafemmedigitale"
   }
 }

@@ -1,36 +1,16 @@
 {
-  "toubib-connectee": {
-    "title": "Cécile, la toubib connectée",
+  "bfm-business": {
+    "title": "Faut-il davantage se tourner vers la tech pour sauver notre systeme de sante ?",
+    "summary": "Avec Eric Sebban et Laurent Levasseur.",
+    "source": "BFM Buiness",
+    "date": "8 octobre 2015",
+    "link": "http://bfmbusiness.bfmtv.com/mediaplayer/video/faut-il-davantage-se-tourner-vers-la-tech-pour-sauver-notre-systeme-de-sante-0810-656452.html"
+  },
+  "pressformore": {
+    "title": "Article Pressformore",
     "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
-    "source": "Le Courrier de l'Ouest",
+    "source": "Pressformore",
     "date": "22 novembre 2014",
-    "link": "http://google.com"
-  },
-  "revolution-smartphone": {
-    "title": "Dr Cécile Monteil: la révolution par le smartphone",
-    "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
-    "source": "Le Quotidian du Médecin",
-    "date": "18 mai 2015",
-    "link": "http://google.com"
-  },
-  "sandbox": {
-    "title": "Sandbox, réseau de jeunes leaders impliqués",
-    "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
-    "source": "L'Opinion",
-    "date": "21 novembre 2013",
-    "link": "http://google.com"
-  },
-  "elites-3-0": {
-    "title": "Elites 3.0",
-    "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
-    "source": "Le Monde",
-    "link": "http://www.lemonde.fr/technologies/visuel/2014/03/28/sandbox-le-reseau-des-elites-connectees-qui-veulent-changer-le-monde_4385947_651865.html"
-  },
-  "wondher": {
-    "title": "Interview for WondHer",
-    "summary": "Quisque vehicula, nisi nec facilisis malesuada, tellus risus mattis ligula, in cursus quam ex ut arcu. Sed sed tincidunt massa.",
-    "source": "WondHer",
-    "data": "August 31st, 2015",
-    "link": "http://www.wondher.co/testimonies/cecile-m"
+    "link": "http://pressformore.com/view/hackteurs-3-futur-de-la-medecine-et-de-la-sante-cecile-monteil-hackteurs-du-futur"
   }
 }
