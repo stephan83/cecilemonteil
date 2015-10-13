@@ -29,12 +29,12 @@ html(lang='en')
           ul.nav.navbar-nav
             li(class="#{ current.source == 'index' ? 'active' : '' }", role='presentation')
               a(href='/') HOME
-            li(class="#{ current.source == 'press' ? 'active' : '' }", role='presentation')
-              a(href='press.html') PRESS
-            li(class="#{ current.source == 'talks' ? 'active' : '' }", role='presentation')
-              a(href='talks.html') TALKS
             li(class="#{ current.source == 'media' ? 'active' : '' }", role='presentation')
               a(href='media.html') MEDIA
+            li(class="#{ current.source == 'talks' ? 'active' : '' }", role='presentation')
+              a(href='talks.html') TALKS
+            li(class="#{ current.source == 'publications' ? 'active' : '' }", role='presentation')
+              a(href='publications.html') PUBLICATIONS
             li(class="#{ current.source == 'experience' ? 'active' : '' }", role='presentation')
               a(href='experience.html') EXPERIENCE
     .container.main-container
@@ -43,12 +43,12 @@ html(lang='en')
           ul.nav.nav-pills.nav-stacked.sidebar
             li(class="#{ current.source == 'index' ? 'active' : '' }", role='presentation')
               a(href='/') HOME
-            li(class="#{ current.source == 'press' ? 'active' : '' }", role='presentation')
-              a(href='press.html') PRESS
-            li(class="#{ current.source == 'talks' ? 'active' : '' }", role='presentation')
-              a(href='talks.html') TALKS
             li(class="#{ current.source == 'media' ? 'active' : '' }", role='presentation')
               a(href='media.html') MEDIA
+            li(class="#{ current.source == 'talks' ? 'active' : '' }", role='presentation')
+              a(href='talks.html') TALKS
+            li(class="#{ current.source == 'publications' ? 'active' : '' }", role='presentation')
+              a(href='publications.html') PUBLICATIONS
             li(class="#{ current.source == 'experience' ? 'active' : '' }", role='presentation')
               a(href='experience.html') EXPERIENCE
           .row.social
@@ -56,10 +56,10 @@ html(lang='en')
               a.btn.btn-link(href='#', title='Email', data-toggle='tooltip', data-placement='top')
                 i.fa.fa-3x.fa-at
             .col-xs-4
-              a.btn.btn-link(href='#', title='Twitter', data-toggle='tooltip', data-placement='top')
+              a.btn.btn-link(href='https://twitter.com/eppocrate', title='Twitter', data-toggle='tooltip', data-placement='top')
                 i.fa.fa-3x.fa-twitter
             .col-xs-4
-              a.btn.btn-link(href='#', title='LinkedIn', data-toggle='tooltip', data-placement='top')
+              a.btn.btn-link(href='https://fr.linkedin.com/in/cecilemonteil', title='LinkedIn', data-toggle='tooltip', data-placement='top')
                 i.fa.fa-3x.fa-linkedin
         .col-sm-8.col-md-9.main-content
           != yield
@@ -68,10 +68,10 @@ html(lang='en')
             a.btn.btn-link(href='#', title='Email', data-toggle='tooltip', data-placement='top')
               i.fa.fa-3x.fa-at
           .col-xs-4
-            a.btn.btn-link(href='#', title='Twitter', data-toggle='tooltip', data-placement='top')
+            a.btn.btn-link(href='https://twitter.com/eppocrate', title='Twitter', data-toggle='tooltip', data-placement='top')
               i.fa.fa-3x.fa-twitter
           .col-xs-4
-            a.btn.btn-link(href='#', title='LinkedIn', data-toggle='tooltip', data-placement='top')
+            a.btn.btn-link(href='https://fr.linkedin.com/in/cecilemonteil', title='LinkedIn', data-toggle='tooltip', data-placement='top')
               i.fa.fa-3x.fa-linkedin
     script(src='//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js')
     script(src='//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js')

@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "name": "cecilemonteil",
+  "version": "1.0.0",
+  "description": "Cecile Monteil's website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "harp server",
+    "compile": "harp compile",
+    "upload": "cd www && aws s3 cp . s3://cmonteil --recursive && cd ..",
+    "publish": "npm run compile && npm run upload"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephan83/cecilemonteil.git"
+  },
+  "author": "Stephan Florquin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephan83/cecilemonteil/issues"
+  },
+  "homepage": "https://github.com/stephan83/cecilemonteil",
+  "dependencies": {
+    "harp": "^0.19.0"
+  }
+}
