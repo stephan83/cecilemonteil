@@ -1,9 +1,23 @@
 {
+  "hbA1c": {
+    "title": "Faible niveau de connaissances du paramètre \"HbA1c\" ...",
+    "summary": "... chez des patients diabétiques de type 2 hospitalisés dans un centre d'ophtalmologie.",
+    "source": "Congrès SFD Bordeaux Diabet Metab",
+    "date": "mars 2015",
+    "link": "http://www.sfdiabete.org/sites/sfd.prod/files/files/Congres/15sfd_programmefinal-v7.pdf"
+  },
   "horizon": {
     "title": "Santé connectée... Que la magie opère !",
     "summary": "",
     "source": "Horizon Pluriel",
     "date": "janvier 2015",
     "link": "files/horizon.pdf"
+  },
+  "smartphone-accompagnement": {
+    "title": "Du smartphone à l'accompagnement médical",
+    "summary": "",
+    "source": "Intéractions UTC",
+    "date": "décembre 2014",
+    "link": "http://interactions.utc.fr/IMG/pdf/interactions_31_web.pdf"
   }
 }

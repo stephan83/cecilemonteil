@@ -6,7 +6,8 @@
           img.img-responsive(src='images/' + slug + '.jpg')
       .col-xs-8
         h2= article.title
-        p= article.summary
+        if article.summary
+          p= article.summary
         p
           if article.venue
             strong= article.venue
