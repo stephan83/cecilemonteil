@@ -1,10 +1,31 @@
 {
   "bfm-business": {
     "title": "Faut-il d'avantage se tourner vers la tech pour sauver notre système de santé ?",
-    "summary": "Avec Eric Sebban et Laurent Levasseur.",
+    "summary": "Avec: Cécile Monteil, médecin urgentiste et directrice médicale de la société Ad Scientiam. Eric Sebban, président et fondateur de Visiomed. Laurent Levasseur, président du directoire de Bluelinea. Et Christofer Ciminelli, rédacteur en chef du Lab 01net.com. - Tech & Co, du jeudi 8 octobre 2015, présenté par Sébastien Couasnon, sur BFM Business.",
     "source": "BFM Business",
     "date": "8 octobre 2015",
     "link": "http://bfmbusiness.bfmtv.com/mediaplayer/video/faut-il-davantage-se-tourner-vers-la-tech-pour-sauver-notre-systeme-de-sante-0810-656452.html"
+  },
+  "bfm-business-4": {
+    "title": "L'amnésie numérique touche plus de 3 millions de Français",
+    "summary": "Avec Michaël Dandrieux, sociologue et co-fondateur de l'Institut Eranos, Cécile Monteil, médecin urgentiste et directrice médicale de la société Ad Scientiam, et Pascal Samama, journaliste de Bfmbusiness.com. - Tech & Co, du mardi 25 août 2015, présenté par Sébastien Couasnon, sur BFM Business.",
+    "source": "BFM Business",
+    "date": "25 septembre 2015",
+    "link": "https://www.dailymotion.com/video/x334bnl_l-amnesie-numerique-touche-plus-de-3-millions-de-francais-selon-une-etude-de-kaspersky-michael-dandr_news"
+  },
+  "france-culture": {
+    "title": "La santée connectée",
+    "summary": "Emission présentée par le Pr. René Frydman, avec le Dr. Cécile Monteil, Dr. Antoine Tesnière et Alexia Sibony. Qu'est-ce que la médecine connectée, est-ce la disparition des médecins au profit des objets : tablettes et smartphones... susceptibles d'aider le patient dans la prise en compte de sa propre santé ou une aide au suivi et à la prévention médicale ?",
+    "source": "France Culture",
+    "date": "16 juin 2015",
+    "link": "http://www.franceculture.fr/emission-revolutions-medicales-la-santee-connectee-2015-06-16"
+  },
+  "bfm-business-3": {
+    "title": "Comment le Big Data va vous faire vivre mieux et plus longtemps",
+    "summary": "Cécile Monteil, médecin urgentiste et directrice médicale de la société Ad Scientiam, Taoufik Amri, directeur datascientist chez Keyrus, Gilles Babinet, Digital Champion, et Fredéric Bergé, journaliste à 01Net, ont décrypté les avantages de l'utilisation du Big Data dans le domaine de la santé. - Tech & Co, du 1er juin, présenté par Sébastien Couasnon, sur BFM Business.",
+    "source": "BFM Business",
+    "date": "1 juin 2015",
+    "link": "http://bfmbusiness.bfmtv.com/mediaplayer/video/comment-le-big-data-va-vous-faire-vivre-mieux-et-plus-longtemps-fredacric-bergac-caccile-monteil-taoufik-amri-et-gilles-babinet-0106-543081.html"
   },
   "revolution-smartphone": {
     "title": "Dr Cécile Monteil: la révolution par le smartphone",
@@ -12,6 +33,27 @@
     "source": "Le Quotidian du Médecin",
     "date": "18 mai 2015",
     "link": "files/revolution-smartphone.pdf"
+  },
+  "bfm-business-2": {
+    "title": "E-santé: quels impacts sur la relation médecin-patient ?",
+    "summary": "Frédéric Bergé, journaliste à 01Business, Cécile Monteil, médecin urgentiste et directrice de Ad Scientiam, Jérôme Vercaemer, directeur santé chez Accenture France et Uwe Diegel, co-fondateur de iHealth, ont débattu autour du développement de la santé connectée en France. - Tech & Co, du 30 mars, présenté par Sébastien Couasnon, sur BFM Business.",
+    "source": "BFM Business",
+    "date": "30 mars 2015",
+    "link": "http://bfmbusiness.bfmtv.com/mediaplayer/video/e-sante-quels-impacts-sur-la-relation-medecin-patient-frederic-berge-cecile-monteil-jerome-vercaemer-et-uwe-diegel-3003-484765.html"
+  },
+  "france-inter": {
+    "title": "Le Téléphone Sonne",
+    "summary": "Interview aux cotés de Thierry Zylberberg et Gael Sliman.",
+    "source": "France Inter",
+    "date": "21 janvier 2015",
+    "link": "http://www.franceinter.fr/player/reecouter?play=1038613"
+  },
+  "m6": {
+    "title": "Des hommes d'énergie",
+    "summary": "Médecins : ils veulent connecter le monde médical. Grâce à la création d’une application sur smartphone, ils recueillent auprès des patients des données utiles pour la recherche et permettent ainsi de rapprocher deux conceptions du monde médical : la consultation classique et les nouvelles technologies.",
+    "source": "M6",
+    "date": "11 décembre 2014",
+    "link": "https://www.youtube.com/watch?v=nNto6KHnflI"
   },
   "pressformore": {
     "title": "Pressformore",
@@ -27,7 +69,13 @@
     "date": "22 novembre 2014",
     "link": "files/toubib-connectee.pdf"
   },
-
+  "europe-1": {
+    "title": "Cécile Monteil, médecin",
+    "summary": "Chaque matin, un jeune de moins de 30 ans au talent prometteur répond aux questions de Michel Grossiord.",
+    "source": "Les 30 Glorieux, Europe 1",
+    "date": "18 août 2014",
+    "link": "http://www.europe1.fr/mediacenter/emissions/les-30-glorieux/sons/cecile-monteil-medecin-2204633"
+  },
   "sandbox": {
     "title": "Sandbox, réseau de jeunes leaders impliqués",
     "summary": "Cette initiative née en Suisse il y a cinq ans pourrait se transformer en think tank international. Leur objectif: changer le monde.",
