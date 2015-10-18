@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "harp server",
     "compile": "harp compile",
-    "upload": "aws s3 sync www s3://cmonteil --exclude '.git/*' --exclude '*.DS_Store'",
+    "upload": "aws s3 sync www s3://cecilemonteil.com --exclude '.git/*' --exclude '*.DS_Store'",
     "publish": "npm run compile && npm run upload"
   },
   "repository": {
