@@ -48,6 +48,20 @@
     "date": "17 mars 2015",
     "link": "https://www.canal-u.tv/video/canal_u_medecine/conference_sur_la_sante_connectee.17335"
   },
+  "journee-femme-digitale": {
+    "title": "Journée de la femme digitale",
+    "summary": "Avec cette journée, nous voulons partager notre état d’esprit positif et donner confiance aux femmes en leur capacité d’entreprendre leurs vies.",
+    "venue": "Palais Brongniart (Paris)",
+    "date": "13 mars 2015",
+    "link": "http://lajourneedelafemmedigitale.evolero.com/journeedelafemmedigitale"
+  },
+  "change-it-yourself": {
+    "title": "Change it yourself - santé",
+    "summary": "Le CIY est l'opportunité de faire émerger des solutions plus inclusives, plus innovantes et plus adaptées dans le domaine de la santé.",
+    "venue": "Paris",
+    "date": "11 mars 2015",
+    "link": "http://ciy-sante.strikingly.com/"
+  },
   "tedx": {
     "title": "Santé connectée : quelle révolution pour la recherche médicale ?",
     "summary": "En quoi les objets connectés se positionnent comme une revolution pour la recherche médicale? Quelles sont les nouvelles perspectives qui s'offrent aux chercheurs ?",
@@ -68,12 +82,5 @@
     "venue": "Numa, Paris",
     "date": "26 novembre 2014",
     "link": "http://events.numa.paris/Evenements/Health-2.0-Paris"
-  },
-  "journee-femme-digitale": {
-    "title": "Journée de la femme digitale",
-    "summary": "Avec cette journée, nous voulons partager notre état d’esprit positif et donner confiance aux femmes en leur capacité d’entreprendre leurs vies.",
-    "venue": "Palais Brongniart (Paris)",
-    "date": "13 mars 2014",
-    "link": "http://lajourneedelafemmedigitale.evolero.com/journeedelafemmedigitale"
   }
 }
