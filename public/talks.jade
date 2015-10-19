@@ -2,7 +2,7 @@
   for article, slug in public.talks._data
     .row.item
       .col-xs-4
-        a(href=article.link)
+        a(href=article.link, target='_blank')
           img.img-responsive(src='images/' + slug + '.jpg')
       .col-xs-8
         h2= article.title
@@ -16,5 +16,5 @@
             = article.date
         .row
           .col-xs-10.col-sm-6.col-md-4.col-lg-3
-            a.btn.btn-primary.btn-block(href=article.link) VIEW
+            a.btn.btn-primary.btn-block(href=article.link, target='_blank') VIEW
     
