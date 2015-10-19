@@ -161,4 +161,8 @@ strong {
     font-weight: 700;
     font-size: 1.1em;
   }
+  .col {
+    margin-top: $grid-gutter-width * 0.5;
+    margin-bottom: $grid-gutter-width * 0.5;
+  }
 }
