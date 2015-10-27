@@ -1,8 +1,15 @@
 {
+  "disruptive-health": {
+    "title": "The Disruptive Health Innovation for the Next Decade : Hype or Hope ?",
+    "summary": "By Roche, with BlueFrog Robots, Voluntis and La Paillasse.",
+    "venue": "11th edition of the Women’s Global Forum, Deauville",
+    "date": "October 14-16th 2015",
+    "link": "http://www.womens-forum.com/meetings/women-s-forum-global-meeting-2015/33"
+  },
   "medecine-revolution-2": {
     "title": "Médecine connectée : jusqu’ou ira la révolution ?",
     "summary": "Depuis 28 ans, les Journées INFOGYN rassemblent toutes les spécialités liées à la santé de la femme et du nouveau-né.",
-    "venue": "Congrès de Gynécologie INFOGYN ",
+    "venue": "Congrès de Gynécologie INFOGYN",
     "date": "1 au 3 octobre 2015",
     "link": "http://www.journees-infogyn.com/programme-scientifique/samedi-3-octobre-2"
   },
@@ -22,8 +29,8 @@
   },
   "research-kit": {
     "title": "1ere étude Research Kit en France",
-    "summary": "ResearchKit, la nouvelle plateforme d'Apple qui va révolutionner la recherche fait son entrée en France. Ad Scientiam amorce la première étude Research Kit sur la Sclérose en Plaques.",
-    "venue": "Ad Scientiam",
+    "summary": "Ad Scientiam amorce la première étude française Research Kit, la nouvelle plateforme d'Apple qui va révolutionner la recherche, sur la Sclérose en Plaques.",
+    "venue": "3ème Session Santé Connectée par Ad Scientiam, Institut du Cerveau et de la Moelle Epinière",
     "date": "9 septembre 2015",
     "link": "https://www.youtube.com/watch?v=KlMlO27rkOY"
   },
