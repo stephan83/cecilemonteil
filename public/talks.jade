@@ -16,5 +16,8 @@
             = article.date
         .row
           .col-xs-10.col-sm-6.col-md-4.col-lg-3
-            a.btn.btn-primary.btn-block(href=article.link, target='_blank') VIEW
+            a.btn.btn-primary.btn-block(href=article.link, target='_blank', style="margin-bottom: 10px") VIEW
+          if article.link2
+            .col-xs-10.col-sm-6.col-md-4.col-lg-3
+              a.btn.btn-primary.btn-block(href=article.link2, target='_blank') VIEW ALSO
     
