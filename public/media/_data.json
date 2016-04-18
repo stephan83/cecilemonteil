@@ -1,15 +1,27 @@
 {
-  "l-express-10-fevrier-2016": {
-    "title": "Les Pistes du Dr. Watson, le supercalculateur d'IBM",
-    "source": "L'Express",
-    "date": "10 février 2016",
-    "link" : "http://lexpansion.lexpress.fr/high-tech/les-pistes-du-dr-watson-le-supercalculateur-d-ibm_1761958.html"
+  "whatsup-13-avril-2016": {
+    "title": "La blockchain : un service de sécurité béton pour la e-santé ?",
+    "source": "What's Up Doc",
+    "date": "13 avril 2016",
+    "link" : "http://www.whatsupdoc-lemag.fr/actualites-article.asp?id=18595"
+  },
+  "whatsup-8-avril-2016": {
+    "title": "Occurens : un speed-dating pas comme les autres",
+    "source": "What's Up Doc",
+    "date": "8 avril 2016",
+    "link" : "http://www.whatsupdoc-lemag.fr/actualites-article.asp?id=18583"
   },
   "le-quotidien-2": {
     "title": "Entretien avec le Dr. Monteil",
     "source": "Le Quotidien du Médecin n°9470",
     "date": "11 février 2016",
     "link" : "/files/QMED9470_003.pdf"
+  },
+  "l-express-10-fevrier-2016": {
+    "title": "Les Pistes du Dr. Watson, le supercalculateur d'IBM",
+    "source": "L'Express",
+    "date": "10 février 2016",
+    "link" : "http://lexpansion.lexpress.fr/high-tech/les-pistes-du-dr-watson-le-supercalculateur-d-ibm_1761958.html"
   },
   "connected-mag-2": {
     "title": "Eppocrate : Être Médecin Demain",
