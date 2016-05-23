@@ -1,4 +1,25 @@
 {
+  "health-paris-week": {
+    "title": "L'ubérisation de la santé est-elle en marche ?",
+    "summary": "",
+    "venue": "Table Ronde Paris Healthcare Week, Paris",
+    "date": "24 mai 2016",
+    "link": "http://www.parishealthcareweek.com/fr/paris-healthcare-week/presentation/salon-hit/"
+  }, 
+  "blockchain-escp": {
+    "title": "Blockchain Conference ",
+    "summary": "",
+    "venue": "Panel with Girls in Tech et OuiShare, Paris",
+    "date": "18 mai 2016",
+    "link": "https://www.eventbrite.fr/e/billets-blockchain-conference-avec-girls-in-tech-et-ouishare-25020124867"
+  }, 
+  "pediatrie-congres": {
+    "title": "Etat des lieux et prospective en e-santé en pédiatrie",
+    "summary": "",
+    "venue": "Congrès de la Société Française de Pédiatrie, Lille",
+    "date": "19 mai 2016",
+    "link": "http://www.pediatrie2016.org/"
+  }, 
   "bientot-startup": {
     "title": "Bientôt toutes en mode start-up ?",
     "summary": "",
