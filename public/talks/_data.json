@@ -6,19 +6,19 @@
     "date": "24 mai 2016",
     "link": "http://www.parishealthcareweek.com/fr/paris-healthcare-week/presentation/salon-hit/"
   }, 
-  "blockchain-escp": {
-    "title": "Blockchain Conference ",
-    "summary": "",
-    "venue": "Panel with Girls in Tech et OuiShare, Paris",
-    "date": "18 mai 2016",
-    "link": "https://www.eventbrite.fr/e/billets-blockchain-conference-avec-girls-in-tech-et-ouishare-25020124867"
-  }, 
   "pediatrie-congres": {
     "title": "Etat des lieux et prospective en e-santé en pédiatrie",
     "summary": "",
     "venue": "Congrès de la Société Française de Pédiatrie, Lille",
     "date": "19 mai 2016",
     "link": "http://www.pediatrie2016.org/"
+  },   
+  "blockchain-escp": {
+    "title": "Blockchain Conference ",
+    "summary": "",
+    "venue": "Panel with Girls in Tech et OuiShare, Paris",
+    "date": "18 mai 2016",
+    "link": "https://www.eventbrite.fr/e/billets-blockchain-conference-avec-girls-in-tech-et-ouishare-25020124867"
   }, 
   "bientot-startup": {
     "title": "Bientôt toutes en mode start-up ?",
@@ -27,13 +27,6 @@
     "date": "9 avril 2016",
     "link": "http://www.elle.fr/Societe/Le-travail/Forum-ELLE-Active/Paris-27-et-28-mars/ELLE-Active-a-Paris-retour-sur-les-temps-forts-en-45-photos/Bientot-toutes-en-mode-start-up"
   }, 
-  "healthshapr": {
-    "title": "Professionnels de santé et patients vont-ils ubériser la médecine ?",
-    "summary": "",
-    "venue": "Table ronde HealthSapr, Paris",
-    "date": "28 janvier 2016",
-    "link": "http://healthshapr.com/conference/"
-  },  
   "trophee-2016": {
     "title": "L'Hébergement agrée de données de santé a-t-il encore un sens ?",
     "summary": "",
@@ -41,6 +34,13 @@
     "date": "8 février 2016",
     "link": "http://www.trophees-sante-mobile.com/"
   },
+  "healthshapr": {
+    "title": "Professionnels de santé et patients vont-ils ubériser la médecine ?",
+    "summary": "",
+    "venue": "Table ronde HealthSapr, Paris",
+    "date": "28 janvier 2016",
+    "link": "http://healthshapr.com/conference/"
+  },    
   "humanisme-nouvelles-technologies": {
     "title": "Humanisme et Nouvelles Technologies : Oxymore ou Synergie",
     "summary": "Speed Vision en 5 min'",
