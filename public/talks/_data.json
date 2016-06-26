@@ -1,4 +1,32 @@
 {
+  "conf-paris-numérique": {
+    "title": "Santé, la révolution préventive (vidéo)",
+    "summary": "",
+    "venue": "La Conférence de Paris sur le Numérique, Paris",
+    "date": "13 juin 2016",
+    "link": "http://www.laconferencedeparis.com/sante-la-revolution-preventive/"
+  }, 
+  "futur-en-seine": {
+    "title": "Hackons le Cancer (vidéo)",
+    "summary": "",
+    "venue": "Futur en Seine, Paris",
+    "date": "9 juin 2016",
+    "link": "https://gaite-lyrique.eyedo.com/fr-FR/#!/Live/Detail/17749?chapitreId=0"
+  }, 
+  "gyn-monaco": {
+    "title": "Nouvelles applications et objets connectés en gynécologie obstétrique",
+    "summary": "",
+    "venue": "Gyn Monaco, Monaco",
+    "date": "2 juin 2016",
+    "link": "http://gyn-monaco.com/"
+  }, 
+  "connected-health-monaco": {
+    "title": "Eppocrate workshop and Nanotechnology panel",
+    "summary": "",
+    "venue": "Connected Health Monaco, Monaco",
+    "date": "31 mai 2016",
+    "link": " http://connectedhealthmonaco.com/"
+  }, 
   "health-paris-week": {
     "title": "L'ubérisation de la santé est-elle en marche ?",
     "summary": "",
