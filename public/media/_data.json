@@ -1,4 +1,22 @@
 {
+  "france-inter2": {
+    "title": "C'est pour aujourd'hui ou pour demain ? Esanté",
+    "source": "France Inter",
+    "date": "2 juillet 2016",
+    "link" : "https://www.franceinter.fr/emissions/c-est-pour-aujourd-hui-ou-pour-demain/c-est-pour-aujourd-hui-ou-pour-demain-02-juillet-2016"
+  },
+  "ordre-des-medecins": {
+    "title": "Être médecin demain",
+    "source": "Ordre des Médecins, Webzine n5",
+    "date": "juillet 2016",
+    "link" : "https://www.conseil-national.medecin.fr/sites/default/files/cn_webzine/2016-07/www/index.php#/page-6"
+  },
+  "zdnet": {
+    "title": "La médecine sans médecin n'est pas pour demain",
+    "source": "France Inter",
+    "date": "27 juin 2016",
+    "link" : "http://www.zdnet.fr/actualites/transfo-numerique-la-medecine-sans-medecin-n-est-pas-pour-demain-39838954.htm"
+  },
   "girls-in-tech": {
     "title": "Interview Girls in Tech 'Blockchain et Santé'",
     "source": "Girls in Tech",
