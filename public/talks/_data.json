@@ -1,4 +1,53 @@
 {
+  "sanofi": {
+    "title": "Comment favoriser une innovation en santé au service de la dynamique sociale et territoriale ?",
+    "summary": "",
+    "venue": "Forum de Santé Publique 2016, Sanofi",
+    "date": "2 décembre 2016",
+    "link": "http://www.forumsantepublique-sanofi.fr/"
+  },
+  "assemblee-nationale-2": {
+    "title": " Médecine du futur et naissance d'une nouvelle Humanité ?",
+    "summary": "",
+    "venue": "Colloque Nouvelles Frontières de la longévité à l'Assemblée Nationale, Paris",
+    "date": "1er décembre 2016",
+    "link": "http://www.institutdejaeger.com/communications-et-publications/les-nouvelles-frontieres-de-la-longevite"
+  },
+  "ecole-polytechnique": {
+    "title": "La révolution numérique dans le secteur de la santé",
+    "summary": "",
+    "venue": "La Grande Journée des débats, Ecole Polytechnique",
+    "date": "3 décembre 2016",
+    "link": "https://www.facebook.com/events/185733171885767/"
+  },
+  "finance-fiction": {
+    "title": "Blockchain & Santé (vidéo)",
+    "summary": "",
+    "venue": "Finance Fiction, Marseille",
+    "date": "4 novembre 2016",
+    "link": "http://www.missfq.com/blockchain/cecile-monteil-la-blockchain-un-jeu-denfant-finance-fiction-popfinance/"
+  },
+  "wikipme": {
+    "title": "Stratumn, Expert en Blockchain (vidéo)",
+    "summary": "",
+    "venue": "WikiPME, Paris",
+    "date": "25 octobre 2016",
+    "link": "https://www.youtube.com/watch?v=_d--uSWGsxI"
+  },
+  "cham2": {
+    "title": "Atelier 'La formation médicale et nouvelles technologies'",
+    "summary": "",
+    "venue": "CHAM2016, Chamonix",
+    "date": "29 septembre 2016",
+    "link": "http://www.canalcham.fr"
+  },
+  "connecte": {
+    "title": "Regards Connectés (vidéo)",
+    "summary": "",
+    "venue": "Connected Mag",
+    "date": "28 septembre 2016",
+    "link": "http://www.theconnectedmag.fr/regards-connectes-cecile-monteil/"
+  },
   "S3odeon": {
     "title": "Quand la techno relie l'humain à l'humain (vidéo)",
     "summary": "",

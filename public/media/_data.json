@@ -1,10 +1,22 @@
 {
+  "telestar": {
+    "title": "Diabète et Innovations",
+    "source": "Télé Start",
+    "date": "14 novembre 2016",
+    "link" : "/files/article-diabete-innovations.pdf"
+  },
   "mag-sante": {
     "title": "Magazine de la santé",
     "source": "FRANCE 5 TV",
     "date": "28 Aug 2016",
     "link" : "http://www.allodocteurs.fr/emissions/le-magazine-de-la-sante/le-magazine-de-la-sante-du-29-08-2016_25942.html"
   },
+  "journal-du-net": {
+    "title": "Big Pharma et géants tech veulent utiliser la blockchain dans l'e-santé",
+    "source": "Journal du NET",
+    "date": "27 juillet 2016",
+    "link" : "http://www.journaldunet.com/economie/sante/1182134-big-pharma-et-geants-tech-veulent-utiliser-la-blockchain-dans-l-e-sante/"
+  }, 
   "france-inter2": {
     "title": "C'est pour aujourd'hui ou pour demain ? Esanté",
     "source": "France Inter",
