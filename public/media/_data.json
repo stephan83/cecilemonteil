@@ -1,9 +1,39 @@
 {
+ "observatoiresante": {
+    "title": "Info santé et Internet",
+    "source": "Observatoire de l'information santé",
+    "date": "17 novembre 2017",
+    "link" : "http://www.observatoiredelinfosante.com/numerique/info-sante-et-internet-une-meilleure-relation-medecin-patient-100.htm"
+  },
+  "docmaddy": {
+    "title": "Comme des Hommes (vidéo)",
+    "source": "Documentaire Maddy Keynote 2017",
+    "date": "16 novembre 2017",
+    "link" : "https://www.maddyness.com/innovation/2017/11/16/documentaire-divertissement-sante-education-nutrition-avenir/"
+  },
+  "bfmcancer": {
+    "title": "Le jour ou la tech vaincra le cancer (vidéo)",
+    "source": "BFM Business, Tech&Co",
+    "date": "11 octobre 2017",
+    "link" : "http://bfmbusiness.bfmtv.com/mediaplayer/video/le-jour-ou-la-tech-vaincra-le-cancer-1110-990931.html"
+  },
+  "latribune2017": {
+    "title": "La santé connectée a besoin de confiance accrue pour se démocratiser",
+    "source": "La Tribune",
+    "date": "14 juin 2017",
+    "link" : "https://www.latribune.fr/entreprises-finance/industrie/chimie-pharmacie/la-sante-connectee-a-besoin-de-confiance-accrue-pour-se-democratiser-737510.html"
+  },
   "telestar": {
     "title": "Diabète et Innovations",
-    "source": "Télé Start",
+    "source": "Télé Star",
     "date": "14 novembre 2016",
     "link" : "/files/article-diabete-innovations.pdf"
+  },
+  "whatsupdocbrute": {
+    "title": "Brute ou pas brute, épisode 4 - La maltraitance vue par les médecins",
+    "source": "What's Up Doc",
+    "date": "19 octobre 2016",
+    "link" : "http://www.whatsupdoc-lemag.fr/actualites-article.asp?id=20036"
   },
   "mag-sante": {
     "title": "Magazine de la santé",
