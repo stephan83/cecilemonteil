@@ -1,4 +1,16 @@
 {
+    "makesense2018": {
+    "title": "Interview MakeSense.org",
+    "source": "Makesense",
+    "date": "9 avril 2018",
+    "link" : "https://makesense.org/article/cecile-monteil-quand-soigner-et-innover-ne-font-plus-quun/"
+  },
+    "ouestfrance2018": {
+    "title": "La Blockchain, plus grande révolution depuis Internet ?",
+    "source": "Ouest France",
+    "date": "6 novembre 2017",
+    "link" : "https://www.ouest-france.fr/high-tech/digital-tech/digital-tech-conference-blockchain-autopsie-d-une-disruption-5361667"
+  },
   "methodescientifique": {
     "title": "Médecine connectée : les données c’est la santé (podcast)",
     "source": "Emission La Méthode Scientifique, France Culture",
@@ -16,6 +28,12 @@
     "source": "Documentaire Maddy Keynote 2017",
     "date": "16 novembre 2017",
     "link" : "https://www.maddyness.com/innovation/2017/11/16/documentaire-divertissement-sante-education-nutrition-avenir/"
+  },
+  "ouestfrance": {
+    "title": "La Blockchain, plus grande révolution depuis internet ?",
+    "source": "Ouest France",
+    "date": "6 novembre 2017",
+    "link" : "https://www.ouest-france.fr/high-tech/digital-tech/digital-tech-conference-blockchain-autopsie-d-une-disruption-5361667"
   },
   "bfmcancer": {
     "title": "Le jour ou la tech vaincra le cancer (vidéo)",
