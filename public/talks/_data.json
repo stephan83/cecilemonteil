@@ -1,4 +1,18 @@
 {
+    "futur en seine 2018": {
+    "title": "Blockchain & Healthcare Keynote",
+    "summary": "",
+    "venue": "Innolabs contest at Futur.e.s, Paris",
+    "date": "22 juin 2018",
+    "link": "https://www.innolabs.io/ideaContestParis.html"
+  },
+    "construire france": {
+    "title": "Shots inspirationels d'Engagés",
+    "summary": "",
+    "venue": "Construire la France de Demain ANAJ-IHEDN, Paris",
+    "date": "16 juin 2018",
+    "link": "http://makeouryouthgreatagain.fr/"
+  },
     "fondationaphp": {
     "title": "Table ronde : Futur de la médecine et place du patient ",
     "summary": "",
@@ -7,11 +21,11 @@
     "link": "https://fondationrechercheaphp.fr/aap-msdfrance-fondationaphp/"
   },
     "famx2018": {
-    "title": "Table ronde FAMx Les innovations inversées, créatrice de nouveaux rôles pour les professionnels de santé",
+    "title": "Table ronde FAMx Les innovations inversées, créatrice de nouveaux rôles pour les professionnels de santé (vidéo)",
     "summary": "",
     "venue": "Forum International FAMx, UNESCO, Paris",
     "date": "1er juin 2018",
-    "link": "http://famxparis.fam.fr/"
+    "link": "https://www.youtube.com/watch?v=96eZqu01W9Y"
   },
     "monaco2018": {
     "title": "Blockchains en santé",
