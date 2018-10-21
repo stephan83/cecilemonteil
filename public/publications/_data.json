@@ -1,4 +1,32 @@
 {
+  "Architecture": {
+    "title": "Chapitre 38 - Santé Connectée",
+    "summary": "Contributing author",
+    "source": "Architecture et ingénierie à l'hôpital, le défi de l'avenir",
+    "date": "octobre 2018",
+    "link": "https://www.presses.ehesp.fr/produit/architecture-ingenierie-hopital/"
+  },
+  "Outshine": {
+    "title": "Interview - 'Networking' chapter",
+    "summary": "A book on becoming a female leader",
+    "source": "Outshine",
+    "date": "2017",
+    "link": "https://www.amazon.fr/Outshine-English-Shemin-Nurmohamed-ebook/dp/B077P65PNY"
+  },
+  "Blockchain": {
+    "title": "Blockchain protocols in clinical trials: Transparency and traceability of consent",
+    "summary": "Coordinator between AP-HP & Stratumn",
+    "source": "F1000research",
+    "date": "janvier 2017",
+    "link": "https://f1000research.com/articles/6-66/v1"
+  },
+  "Epidemiumlivreblanc": {
+    "title": "L'utilité pour le patient et le monde médical",
+    "summary": "Contributing author",
+    "source": "Livre Blanc Epidémium",
+    "date": "novembre 2016",
+    "link": "http://epidemium.cc/white-paper-fr/index.html#2"
+  },
   "la-tribune": {
     "title": "La révolution Blockchain, entre fantasme et réalité",
     "summary": "",
