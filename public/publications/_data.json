@@ -1,4 +1,18 @@
 {
+  "digitalmedicine2019": {
+    "title": "Vous allez mourir, mais je n'ai plus de batterie!",
+    "summary": "Personnage = Cécile Monteil",
+    "source": "Auteur : Henri Duboc",
+    "date": "décembre 2018",
+    "link": "https://www.amazon.fr/Digital-Medicine-Arthur-Andre/dp/331998215X"
+  },
+  "henriduboc": {
+    "title": "Chapter 4 - Blockchain and Health (english)",
+    "summary": "Contributing author",
+    "source": "Digital Medicine, editor : Arthur André",
+    "date": "janvier 2019",
+    "link": "https://www.amazon.fr/Vous-allez-mourir-mais-batterie/dp/1720057184"
+  },
   "Architecture": {
     "title": "Chapitre 38 - Santé Connectée",
     "summary": "Contributing author",
