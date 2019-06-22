@@ -1,4 +1,39 @@
 {
+    "VILLANUMERIS2019": {
+    "title": "Digital Medicine, what kind of Humanity are we preparing ?",
+    "summary": "",
+    "venue": "Villa Numéris, Bucharest, Romania",
+    "date": "13 juin 2019",
+    "link": "https://www.lavillanumeris.com/190613_bucharest"
+  },
+    "Ehealth2019": {
+    "title": "Démocratiser l'Intelligence Artificielle",
+    "summary": "",
+    "venue": "eHealthworld 2019, Monaco",
+    "date": "27 mars 2019",
+    "link": "https://ehealthworld.vimeet.events/fr/"
+  },
+    "VOX2019": {
+    "title": "Intelligence artificielle et santé",
+    "summary": "",
+    "venue": "Femmes en Vue/ VoxFémina, CRI, Paris",
+    "date": "19 mars 2019",
+    "link": "http://voxfemina.eu"
+  },
+    "JFCD2019": {
+    "title": "Esanté : Gadget ou véritable révolution.. ?",
+    "summary": "",
+    "venue": "Journée Française Cancérologie Digestive, Cercle National des Armées, Paris",
+    "date": "25 janvier 2019",
+    "link": "https://www.snfge.org/content/jfcd-journees-francophones-de-cancerologie-digestive-les-24-et-25-janvier-2019"
+  },
+    "WEARE2018": {
+    "title": "Blockchain, mais bong sang quel rapport avec la santé? (vidéo)",
+    "summary": "",
+    "venue": "Congrès WEARE, Espace Niemeyer, Paris",
+    "date": "8 décembre 2018",
+    "link": "https://www.youtube.com/watch?v=B6Zjj-abN80"
+  },
     "futuremedicineberlin": {
     "title": "Blockchain : What does it have to do with healthcare? (video)",
     "summary": "",
