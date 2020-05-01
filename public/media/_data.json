@@ -1,4 +1,41 @@
 {
+    "reseteverything": {
+    "title": "Stories from the frontlines of Paris Hospitals (video)",
+    "source": "Reseteverything.events conference",
+    "date": "29th April 2020",
+    "link" : "https://www.youtube.com/watch?v=9C3snR95_as&fbclid=IwAR18N_Jx3uYJr3h4Zi67BenJbo3_Ym0AuOxvvy-1nYoVfLf22CUA0iw6FZY"
+  },
+    "makesensecovid": {
+    "title": "L'Hôpital Public réanimé par la générosité privé",
+    "source": "Makesense",
+    "date": "28 avril 2020",
+    "link" : "https://makesense.org/article/lhopital-public-reanime-par-la-generosite-privee/"
+  },
+    "jt1245": {
+    "title": "COVID19 (vidéo)",
+    "source": "M6 JT1245 et JT1945",
+    "date": "16 avril 2020",
+    "link" : "https://drive.google.com/file/d/1Oulyph0jCsk132XWCAPHy55qUMUpya7M/view"
+  },
+    "jtdcm": {
+    "title": "Episode 5 - J'irai Twitter de chez moi (vidéo)",
+    "source": "#JTDCM - Pharmageek",
+    "date": "13 avril 2020",
+    "link" : "https://www.youtube.com/watch?v=blTuFh6rhSw"
+  },
+    "journaleco": {
+    "title": "La technologie numérique au service de la santé (vidéo)",
+    "source": "Le Journal de l'Eco",
+    "date": "14 février 2020",
+    "link" : "https://lejournaldeleco.fr/93715-2/#.Xl_jBkVKhsM"
+  },
+
+    "nouvellerepublique": {
+    "title": "Faut-il avoir peur de la santé 2.0 ?",
+    "source": "Nouvelle République",
+    "date": "29 janvier 2020",
+    "link" : "https://www.lanouvellerepublique.fr/a-la-une/faut-il-avoir-peur-de-la-sante-2-0"
+  },
     "20htf12019": {
     "title": "Journal de 20 heures, TF1 (vidéo)",
     "source": "TF1 (25min30')",
